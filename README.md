@@ -25,8 +25,8 @@ Welcome to the MERN Bookstore project! This is a CRUD (Create, Read, Update, Del
 1. Clone the repository:
 
    ```bash
-git clone https://github.com/your-username/bookstore-project.git
-cd bookstore-project
-npm install
-npm start
+   git clone https://github.com/your-username/bookstore-project.git
+   cd bookstore-project
+   npm install
+   npm start
 
