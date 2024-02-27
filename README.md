@@ -30,3 +30,6 @@ Welcome to the MERN Bookstore project! This is a CRUD (Create, Read, Update, Del
    npm install
    npm start
 
+## Usage
+- Use the provided interface to add, view, update, and delete books.
+- Toggle between table and card view to visualize the book collection differently.
