@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+    font-family: "Rubik Doodle Shadow", cursive;
+}
+.head{
+    font-family: "Rubik Doodle Shadow";
+    font-size: 50px;
+}
+table{
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+}
